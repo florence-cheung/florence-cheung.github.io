@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"癒傷小屋","order":7,"parentId":2,"scrollX":729.75,"scrollY":657},
+{"id":2,"expanded":true,"name":"開始場景","order":1,"parentId":0,"scrollX":707.25,"scrollY":559.5},
+{"id":3,"expanded":true,"name":"村落地圖","order":3,"parentId":2,"scrollX":901.5,"scrollY":1138.5},
+{"id":4,"expanded":false,"name":"俞拊的村落","order":4,"parentId":2,"scrollX":729.75,"scrollY":645},
+{"id":5,"expanded":false,"name":"Market","order":5,"parentId":4,"scrollX":782.25,"scrollY":654.75},
+{"id":6,"expanded":true,"name":"World Map","order":2,"parentId":2,"scrollX":729.75,"scrollY":657},
+{"id":7,"expanded":false,"name":"採藥森林","order":6,"parentId":2,"scrollX":741.75,"scrollY":724.5},
+{"id":8,"expanded":true,"name":"墓葬區","order":9,"parentId":2,"scrollX":729.75,"scrollY":645},
+{"id":9,"expanded":true,"name":"村落地圖（ending）","order":10,"parentId":8,"scrollX":899.25,"scrollY":1152},
+null,
+{"id":11,"expanded":false,"name":"岐伯回家時的轉場地圖","order":8,"parentId":2,"scrollX":729.75,"scrollY":645}
+]
