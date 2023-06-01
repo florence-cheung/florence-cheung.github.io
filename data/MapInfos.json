@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":true,"name":"墓葬區","order":9,"parentId":2,"scrollX":729.75,"scrollY":645},
 {"id":9,"expanded":true,"name":"村落地圖（ending）","order":10,"parentId":8,"scrollX":899.25,"scrollY":1152},
 null,
-{"id":11,"expanded":false,"name":"岐伯回家時的轉場地圖","order":8,"parentId":2,"scrollX":729.75,"scrollY":645}
+{"id":11,"expanded":false,"name":"歧伯回家時的轉場地圖","order":8,"parentId":2,"scrollX":729.75,"scrollY":645}
 ]
